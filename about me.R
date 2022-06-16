@@ -1,3 +1,3 @@
-print("Hello! My name is Marion de Leon.")
-print("My course is BS Computer Engineering.")
-print("I was born on November 12, 2002.")
+print("My name is Marion Abbygail de Leon.")
+print("You can call me Marion.")
+print("I like to watch crime shows.")
